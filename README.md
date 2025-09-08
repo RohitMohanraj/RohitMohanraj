@@ -2,10 +2,9 @@
 **Building robot arms, CNC systems, and intelligent perception stacks.**
 
 <p align="center">
-  <img src="assets/robotic_hand.gif" width="240" alt="3D-printed robotic hand demo"/>
-  <img src="assets/isaac.gif" width="240" alt="NVIDIA Isaac Sim robotics demo"/>
-  <img src="assets/humanoid.gif" width="240" alt="Humanoid robot demo"/>
-  <img src="assets/unity_sim.gif" width="240" alt="Robotics simulation snippet"/>
+  <img src="assets/gif1.gif" width="240" alt="3D-printed robotic hand demo"/>
+  <img src="assets/gif2.gif" width="240" alt="NVIDIA Isaac Sim robotics demo"/>
+  <img src="assets/gif3.gif" width="240" alt="Humanoid robot demo"/>
 </p>
 
 ---
