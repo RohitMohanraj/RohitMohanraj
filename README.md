@@ -2,10 +2,10 @@
 **Building robot arms, CNC systems, and intelligent perception stacks.**
 
 <p align="center">
-  <img src="https://cdn.sanity.io/images/fuvbjjlp/production/e2a4b3e5309612baa94f5cbfff3614f4b65aaa42-970x588.gif" width="240" alt="3D-printed robotic hand demo"/>
-  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/05/Isaac-robotics.gif" width="240" alt="NVIDIA Isaac Sim robotics demo"/>
-  <img src="https://developer.nvidia.com/blog/accelerate-generalist-humanoid-robot-development-with-nvidia-isaac-gr00t-n1/" width="240" alt="Humanoid robot demo"/>
-  <img src="https://unity.com/blog/engine-platform/simulate-robots-with-more-realism-whats-new-in-physics-for-unity-20212-beta" width="240" alt="Robotics simulation snippet"/>
+  <img src="assets/robotic_hand.gif" width="240" alt="3D-printed robotic hand demo"/>
+  <img src="assets/isaac.gif" width="240" alt="NVIDIA Isaac Sim robotics demo"/>
+  <img src="assets/humanoid.gif" width="240" alt="Humanoid robot demo"/>
+  <img src="assets/unity_sim.gif" width="240" alt="Robotics simulation snippet"/>
 </p>
 
 ---
@@ -25,14 +25,16 @@
 ---
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)  
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
